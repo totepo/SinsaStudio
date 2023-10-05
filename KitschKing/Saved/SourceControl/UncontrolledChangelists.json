@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Downloads/Sinsa/SinsaStudio/KitschKing/Content/Stage/Stage-Town.umap",
+				"C:/Users/PC/Downloads/Sinsa/SinsaStudio/KitschKing/Content/Stage/Stage-City.umap",
+				"C:/Users/PC/Downloads/Sinsa/SinsaStudio/KitschKing/Content/Polygon_BattleRoyale/Maps/Demonstration-town.umap"
+			]
+		}
+	]
+}
