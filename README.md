@@ -4,8 +4,11 @@
 
    ### Project Kitsch King  
 
- ### Kitch한 감성을 더해 컨셉과 플레이 모두 가볍고 톡톡 튀는 게임
+ ### Kitch한 감성을 더해 컨셉과 플레이 모두 가볍고 톡톡 튀는 게임  
+ 
 
+### 트레일러 : https://drive.google.com/file/d/18qwy0XoC9rnh9PSTMzsZH49OiYG6jVLT/view?usp=drive_link
+### 배포 : https://drive.google.com/file/d/1dCGLAljT0mOmf3AXtRtAYHPwW7WKD41t/view?usp=drive_link
 </div>
 
 ## 목차
